@@ -1,0 +1,2 @@
+# A-Data-Driven-Analysis-of-User-Behavior-and-Mental-Health-using-SQL-and-Matplotlib-Visualizations
+This project explores the intersection of Python and SQL-driven data analysis and clinical mental health markers (GAD-7 and PHQ-9), where GAD is Generalised Anxiety Disorder, and PHQ is Patient Health Questionnaire. By analyzing 8,000 user records, I identified the digital habits that escalate psychological risk.
